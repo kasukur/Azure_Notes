@@ -12,7 +12,7 @@ AZ-900 Notes
 		- High availability, Fault Tolerance, Disaster Recovery: Describe how stable and dependable cloud computing is.
 		- Scalability, Elasticity and Agility: Ability to adapt changes in resource demand, user base and application usage.
 
-* Language of Cloud Economics: CapeEx and OpEx
+* Language of Cloud Economics: CapEx and OpEx
 
 * Cloud Service Models: IaaS, PaaS and SaaS. 
   The Shared service model dictates whether you or Microsoft is responsible for a cloud service.
